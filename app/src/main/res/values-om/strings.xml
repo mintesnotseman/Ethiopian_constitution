@@ -67,6 +67,17 @@
         <item>Article 35</item>
         <item>Article 35</item>
         <item>Article 50</item>
+
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
     <string-array name="article_description">
         <item>Nomenclature of the State</item>
@@ -123,7 +134,18 @@
         <item>"35"</item>
         <item>"35"</item>
         <item>"35"</item>
-        <item>"35"</item>
+        <item>"50"</item>
+
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
     <string-array name="article_detail">
         <item>This Constitution establishes a Federal and Democratic State structure. Accordingly, the Ethiopian state.shall be known as The Federal Democratic Republic of Ethiopia.</item>
@@ -186,7 +208,18 @@
         <item>ar35</item>
         <item>ar35</item>
         <item>ar35</item>
-        <item>ar35</item>
+        <item>ar50</item>
+
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
 
     </string-array>
 
