@@ -63,6 +63,17 @@
         <item>Article 48</item>
         <item>Article 49</item>
         <item>Article 50</item>
+
+        <item>Article 51</item>
+        <item>Article 52</item>
+        <item>Article 53</item>
+        <item>Article 54</item>
+        <item>Article 55</item>
+        <item>Article 56</item>
+        <item>Article 57</item>
+        <item>Article 58</item>
+        <item>Article 59</item>
+        <item>Article 60</item>
     </string-array>
     <string-array name="article_description">
         <item>"Nomenclature of the State"</item>
@@ -111,11 +122,22 @@
         <item>The Rightto Development</item>
         <item>Environmental Rights</item>
         <item>Form of Government</item>
-        <item> States of the Federation</item>
+        <item>States of the Federation</item>
         <item>Member States of the Federal Democratic Republic</item>
         <item>State Border Changes</item>
         <item>Capital City</item>
         <item>Structure of the Organs of State</item>
+
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
 
 
     </string-array>
@@ -605,8 +627,7 @@ provision of social services or the utilization of natural resources and other
 similar matters, as well as joint administrative matters arising from the location
 of Addis Ababa within the State of Oromia, shall be respected. Particulars shall
 be determined by law."</item>
-        <item>"Article 50. Structure of the Organs of State
-1. The Federal democratic Republic of Ethiopia comprises the Federal Government
+        <item>"1. The Federal democratic Republic of Ethiopia comprises the Federal Government
 and the State members.
 2. The Federal Government and the States shall have legislative, executive and
 judicial powers.
@@ -627,6 +648,17 @@ respect the powers of the Federal Government. The Federal Government shall
 likewise respect the powers of the States.
 9. The Federal Government may, when necessary, delegate to the States powers
 and functions granted to it by Article 51 of this Constitution."</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
 
 
     </string-array>
