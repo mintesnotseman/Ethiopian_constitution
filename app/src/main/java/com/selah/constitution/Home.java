@@ -21,7 +21,6 @@ import android.widget.GridView;
 import android.widget.ListView;
 import android.widget.SearchView;
 import android.widget.Toast;
-
 import com.selah.constitution.utils.LanguageConfig;
 import com.selah.constitution.utils.SharedPrefs;
 
